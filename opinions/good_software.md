@@ -1,4 +1,4 @@
-﻿# Steps for building good software 
+# Steps for building good software 
 
 We need to come up with the philosophy for software engineering. 
 
