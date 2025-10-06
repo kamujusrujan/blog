@@ -1,2 +1,5 @@
-[Portfolio](Misc\port.html)
-[Good software methodology](Opinions\Technology\good_software.html)
+Index : 
+ - My opinions : 
+    - [Good software methodology](Opinions\Technology\good_software.html)
+- Misc 
+    - [Portfolio](Misc\port.html)
