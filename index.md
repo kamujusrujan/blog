@@ -1,1 +1,1 @@
-[Good software methodology](opinions\good_software.html)
+[Good software methodology](Opinions\Technology\good_software.html)
